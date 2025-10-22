@@ -3,7 +3,7 @@ Building a super low-budget gaming PC
 
 ##Specs
 
-CPU: AMD Ryzen 5 4500
+CPU: AMD Ryzen 5 4500 <br>
 RAM: 16GB DDR4
 GPU: GT710 (2GB DDR3 VRAM)
 SSD: Samsung Evo 250 B
