@@ -9,6 +9,7 @@ GPU: GT710 (2GB DDR3 VRAM) <br>
 SSD: Samsung Evo 250GB <br>
 PSU: 750W <br>
 Mobo: ATX AM4 Socket (All-in-one with WiFi) <br>
+OS: Ubuntu 24.05 <br>
 Case: Zalmann Mid-Tower <br> <br>
 
 Overall Cost - Slightly below $500
